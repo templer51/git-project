@@ -7,5 +7,4 @@ public class Main {
         User user3 = new User("Anna", 20);
         System.out.println(user2 + "\n" + user3);
     }
-
 }
